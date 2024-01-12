@@ -5,6 +5,6 @@ function firstWord(s) {
     return s.substring(0, s.indexOf(' '));
 }
 
-// Do not chang the code below
+// Do not chang code below
 const s = prompt("Enter String:");
 alert(firstWord(s));
